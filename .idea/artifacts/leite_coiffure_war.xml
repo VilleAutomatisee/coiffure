@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="leite-coiffure:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="leite-coiffure-0.0.1.RELEASE.war">
+      <element id="artifact" artifact-name="leite-coiffure:war exploded" />
+    </root>
+  </artifact>
+</component>
